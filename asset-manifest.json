@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.cdc01424.chunk.css",
-    "main.js": "/static/js/main.1208c268.chunk.js",
-    "main.js.map": "/static/js/main.1208c268.chunk.js.map",
+    "main.js": "/static/js/main.024ac66b.chunk.js",
+    "main.js.map": "/static/js/main.024ac66b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2e4b9418.js",
     "runtime-main.js.map": "/static/js/runtime-main.2e4b9418.js.map",
     "static/css/2.37c00e0b.chunk.css": "/static/css/2.37c00e0b.chunk.css",
-    "static/js/2.15259c3a.chunk.js": "/static/js/2.15259c3a.chunk.js",
-    "static/js/2.15259c3a.chunk.js.map": "/static/js/2.15259c3a.chunk.js.map",
+    "static/js/2.7c1521ff.chunk.js": "/static/js/2.7c1521ff.chunk.js",
+    "static/js/2.7c1521ff.chunk.js.map": "/static/js/2.7c1521ff.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7c3706745d440e9b61aa35a8c841786b.js": "/precache-manifest.7c3706745d440e9b61aa35a8c841786b.js",
+    "precache-manifest.f655f972309bf7c9eb7b8b488bbc5a9a.js": "/precache-manifest.f655f972309bf7c9eb7b8b488bbc5a9a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.37c00e0b.chunk.css.map": "/static/css/2.37c00e0b.chunk.css.map",
     "static/css/main.cdc01424.chunk.css.map": "/static/css/main.cdc01424.chunk.css.map",
-    "static/js/2.15259c3a.chunk.js.LICENSE.txt": "/static/js/2.15259c3a.chunk.js.LICENSE.txt",
+    "static/js/2.7c1521ff.chunk.js.LICENSE.txt": "/static/js/2.7c1521ff.chunk.js.LICENSE.txt",
     "static/media/award1.jpg": "/static/media/award1.d500e03e.jpg",
     "static/media/award2.jpg": "/static/media/award2.9755c18a.jpg",
     "static/media/award4.jpg": "/static/media/award4.6f33bc79.jpg",
@@ -22,7 +22,7 @@
     "static/media/award8.jpg": "/static/media/award8.bf677f40.jpg",
     "static/media/award9.jpeg": "/static/media/award9.0d82123e.jpeg",
     "static/media/App.css": "/static/media/radhakrushna joytishya.7d542ba4.png",
-    "static/media/dr. Arun Unchegaonkar.jpeg": "/static/media/dr. Arun Unchegaonkar.89ddd33c.jpeg",
+    "static/media/dr.png": "/static/media/dr.19d8aee5.png",
     "static/media/my_profile.png": "/static/media/my_profile.b95a1b5c.png",
     "static/media/newLogo.png": "/static/media/newLogo.183c33ce.png",
     "static/media/styles.css": "/static/media/revicons.2feb69cc.eot"
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.2e4b9418.js",
     "static/css/2.37c00e0b.chunk.css",
-    "static/js/2.15259c3a.chunk.js",
+    "static/js/2.7c1521ff.chunk.js",
     "static/css/main.cdc01424.chunk.css",
-    "static/js/main.1208c268.chunk.js"
+    "static/js/main.024ac66b.chunk.js"
   ]
 }
