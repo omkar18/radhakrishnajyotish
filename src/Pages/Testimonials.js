@@ -1,5 +1,7 @@
 import React, { Component } from "react"
-const profile1 = require("../assets/img/about/my_profile.png")
+const manLogo = require("../assets/img/testimonials/manLogo.png")
+const womenLogo = require("../assets/img/testimonials/women.png")
+
 
 export class Testimonials extends Component {
   render() {
@@ -20,47 +22,67 @@ export class Testimonials extends Component {
                   <div class="testimonial-item">
                     <p>
                       <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                      Dr. Unchegaonkar's work on astrology is commendable.It has helped me
+                      a lot in my difficult situations.I told my problem to Dr. Unchegaonkar,
+                      and he analysis my problem and provide effective solutions.
                       <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                     </p>
-                    <img src={profile1} class="testimonial-img" alt="" />
-                    <h3>Saul Goodman</h3>
-                    <h4>Ceo &amp; Founder</h4>
+                    <img src={womenLogo} class="testimonial-img" alt="" />
+                    <h3>Mrs. Tirmare</h3>
+                    <h4>Engineer</h4>
                   </div>
 
                   <div class="testimonial-item">
                     <p>
                       <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                      Dr. Unchegaonkar's is knowledgeable astrologist.His guidance will change
+                      my life.Because of his effective solutions will give me good job,and also
+                      solved my weeding problems.
+                      Many Many Thanks...
                       <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                     </p>
-                    <img src={profile1} class="testimonial-img" alt="" />
-                    <h3>Sara Wilsson</h3>
-                    <h4>Designer</h4>
+                    <img src={manLogo} class="testimonial-img" alt="" />
+                    <h3>
+                      Mr. Rajesh Kamthekar
+                    </h3>
+                    <h4>Service</h4>
                   </div>
 
                   <div class="testimonial-item">
                     <p>
                       <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                      Dr.Unchegaonkar's studied up to ITI in very difficult conditions and got a job in MSEB's
+                      Thermal Power Station at Parli.
+While doing the job, he did a diploma in engineering. After doing all this, he turned his
+attention to astrology and various pujas.
+
+I have done Shanti Puja for my daughter as well as Kalash Puja and Vastu Puja for them.
+
+I also took advice from them about the wedding card and it was very valuable to us.
+
                       <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                     </p>
-                    <img src={profile1} class="testimonial-img" alt="" />
-                    <h3>Jena Karlis</h3>
-                    <h4>Store Owner</h4>
+                    <img src={manLogo} class="testimonial-img" alt="" />
+                    <h3>Mr. Satish Nirmale</h3>
+                    <h4>Service</h4>
                   </div>
 
                   <div class="testimonial-item">
                     <p>
                       <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                      Dr. Unchegaonkar Hello,
+                      You inspected the land of our petrol pump with your
+                      aura machine and asked us to take a bore at the spot where,
+                      the water started flowing.The rest is about our future.
+                      The same should be guided from time to time.
+                      Thanks...
                       <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                     </p>
-                    <img src={profile1} class="testimonial-img" alt="" />
-                    <h3>Matt Brandon</h3>
-                    <h4>Freelancer</h4>
+                    <img src={manLogo} class="testimonial-img" alt="" />
+                    <h3>Mr. Hemant Kausadikar</h3>
+                    <h4>journalist</h4>
                   </div>
-
+                  {/* 
                   <div class="testimonial-item">
                     <p>
                       <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -70,7 +92,7 @@ export class Testimonials extends Component {
                     <img src={profile1} class="testimonial-img" alt="" />
                     <h3>John Larson</h3>
                     <h4>Entrepreneur</h4>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

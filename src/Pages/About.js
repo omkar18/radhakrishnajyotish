@@ -1,5 +1,5 @@
 import React, { Component } from "react"
-const profile1 = require("../assets/img/about/dr. Arun Unchegaonkar.jpeg")
+const profile1 = require("../assets/img/about/dr.png")
 
 export class About extends Component {
   render() {
