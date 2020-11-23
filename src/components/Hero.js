@@ -31,7 +31,7 @@ export class Hero extends Component {
                   {/* Google Form */}
                   {/* <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSciIcJ-Y7944eWhEkUB3xV8nXZZjz1elRI26fPzt9d0rPnY6g/viewform?embedded=true" width="100%" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> */}
 
-                  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSciIcJ-Y7944eWhEkUB3xV8nXZZjz1elRI26fPzt9d0rPnY6g/viewform?embedded=true" width="100%" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeU9AkrBPxR-WBXZdZTyj06YdbXAzVx8gDNl3miCaAIs7fZQg/viewform?embedded=true" width="100%" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
                 </div>
               </div>
             </div>
