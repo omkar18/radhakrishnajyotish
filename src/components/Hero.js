@@ -14,7 +14,7 @@ export class Hero extends Component {
             {/* <a href="#" data-target="#exampleModal" data-whatever="@mdo" class="btn-get-started scrollto">
               Book Your Appoinment
              </a> */}
-            <a href="#" class="btn-get-started scrollto" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo">Book Your Appoinment</a>
+            <a href="#" class="btn-get-started scrollto" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo">Book Your Appointment</a>
 
           </div>
 
