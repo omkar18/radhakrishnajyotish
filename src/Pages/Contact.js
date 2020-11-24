@@ -31,7 +31,7 @@ export class Contact extends Component {
                     <div class="info">
                       <i class="icofont-envelope"></i>
                       <h4>Email:</h4>
-                      <p>unchegaonkar@yahoo.com</p>
+                      <p>unchegaonkara@gmail.com</p>
                     </div>
                   </div>
                   <div class="col-lg-6">
