@@ -18,7 +18,7 @@ export class About extends Component {
                     <img style={{ width: "180px", height: "250px", border: "10 px solid", borderRadius: "20px" }} src={profile1} />
                   </p>
                   <p style={{ fontSize: "18px", padding: "5px", fontWeight: "bold" }}>Dr. Arun Uttamrao Unchegaonkar</p>
-                  <p style={{ fontSize: "18px", padding: "4px", fontWeight: "bold" }}>(DEE Elect. , PHD Astrology MA, Hindi Pandit)</p>
+                  <p style={{ fontSize: "18px", padding: "4px", fontWeight: "bold" }}>(DEE Elect. , PHD In Astrology, MA Hindi Pandit)</p>
                   <p style={{ fontSize: "18px", padding: "4px", fontWeight: "bold" }}>(Jyotish,Yadniki & Vastu Consultant)</p>
                 </div>
               </div>
